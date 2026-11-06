@@ -1,0 +1,20 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "urmi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npn start"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
